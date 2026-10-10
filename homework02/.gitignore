@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.*
+
+!.env.example
+
+# Build artifacts
+/bin/
+/dist/
+*.exe
+*.out
+
+# Test / coverage
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
